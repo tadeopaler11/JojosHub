@@ -56,8 +56,7 @@ a {
 .btn-warning {
 		width: 100%;
 }
-.btn-dark{	width: 100%;
-}
+
 .btn-primary{
 		width: 100%;
 }
@@ -90,9 +89,20 @@ background-color: rgb(26, 26, 26);
 .phantomcolor{
 	background-color: rgb(43, 43, 107);
 }
+.filaphantom{
+	background-color: rgb(5, 0, 54);
+}
+
+.filabattle{
+	background-color: rgb(44, 29, 2);
+}
+.filastar{
+	background-color: rgb(89, 95, 1);
+}
+
 .row{
 	
-	background-color: rgb(71, 73, 75);
+	
 	width: auto;
 }
 footer{
