@@ -15,9 +15,7 @@ max-height:100vh ;
 	
 }
 
-img {
-	
-}
+
 
 
 h1 {padding: 10px;
@@ -54,6 +52,14 @@ max-height:100vh ;
 }
 a {
 	text-align: center;
+}
+.btn-warning {
+		width: 100%;
+}
+.btn-dark{	width: 100%;
+}
+.btn-primary{
+		width: 100%;
 }
 .btn-secondary{
 	width: 100%;
