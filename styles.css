@@ -79,9 +79,11 @@ a {
 	
 }
 .Tamanios-2{
+	height: 100%;
 	background-color: rgb(2, 2, 44);
 }
 .Tamanios-3{
+	height: 100%;
 	background-color: rgb(99, 105, 1);
 }
 .Tamanios{
@@ -97,7 +99,7 @@ background-color: rgb(26, 26, 26);
 }
 
 .filabattle{
-	background-color: rgb(44, 29, 2);
+	background-color: rgb(44, 10, 2);
 }
 .filastar{
 	background-color: rgb(89, 95, 1);
